@@ -1,0 +1,4 @@
+This is to learn Rust,High,false
+Solidity learning,Medium,false
+Nextjs tutorial projects,Low,false
+To learn Solana,Medium,false
